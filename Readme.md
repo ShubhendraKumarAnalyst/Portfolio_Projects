@@ -3,10 +3,10 @@
 This is my portfolio projects for Data Science.
 Software used for this projects include:
 
-- [Python]
-- [SQL]
-- [Power BI]
-- [Ms Excel]
+- Python
+- SQL
+- Power BI
+- Ms Excel
 
 ## Description
 
